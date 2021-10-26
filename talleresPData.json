@@ -1,0 +1,64 @@
+{
+	"data": [
+		{
+			"vin": 34324324,
+			"diagnostico": 0.5,
+			"repuestos": 2,
+			"enderezado": 0.6,
+			"pintura": 1.5,
+			"mecanica1": 3,
+			"mecanica2": 2,
+			"limpieza": 0.5
+		},
+		{
+			"vin": 44553434,
+			"diagnostico": 0.6,
+			"repuestos": 3,
+			"enderezado": 0.7,
+			"pintura": 1.8,
+			"mecanica1": 2,
+			"mecanica2": 3,
+			"limpieza": 0.5
+		},
+		{
+			"vin": 43443223,
+			"diagnostico": 0.4,
+			"repuestos": 1,
+			"enderezado": 0.8,
+			"pintura": 1,
+			"mecanica1": 1,
+			"mecanica2": 0.4,
+			"limpieza": 0.5
+		},
+		{
+			"vin": 45344334,
+			"diagnostico": 0.3,
+			"repuestos": 0.4,
+			"enderezado": 0,
+			"pintura": 0.4,
+			"mecanica1": 0,
+			"mecanica2": 1,
+			"limpieza": 0.5
+		},
+		{
+			"vin": 44453343,
+			"diagnostico": 0.5,
+			"repuestos": 0.7,
+			"enderezado": 0.1,
+			"pintura": 0,
+			"mecanica1": 0,
+			"mecanica2": 0.5,
+			"limpieza": 0.5
+		},
+		{
+			"vin": 54345345,
+			"diagnostico": 0.2,
+			"repuestos": 0.3,
+			"enderezado": 0,
+			"pintura": 0,
+			"mecanica1": 0,
+			"mecanica2": 0.7,
+			"limpieza": 0.5
+		}
+	]
+}

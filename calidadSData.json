@@ -1,0 +1,34 @@
+{
+	"data": [
+		{
+			"mes": "Enero",
+			"reclamos": 9,
+			"satisfecho": 50,
+			"eficiencia": 0.82
+		},
+		{
+			"mes": "Febrero",
+			"reclamos": 3,
+			"satisfecho": 45,
+			"eficiencia": 0.93
+		},
+		{
+			"mes": "Marzo",
+			"reclamos": 11,
+			"satisfecho": 67,
+			"eficiencia": 0.84
+		},
+		{
+			"mes": "Abril",
+			"reclamos": 20,
+			"satisfecho": 80,
+			"eficiencia": 0.75
+		},
+		{
+			"mes": "Mayo",
+			"reclamos": 1,
+			"satisfecho": 60,
+			"eficiencia": 0.98
+		}
+	]
+}
